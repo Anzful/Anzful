@@ -80,6 +80,23 @@
 
 <hr/>
 
+<!-- Featured Projects Section -->
+## 🚀 Featured Projects
+
+### [Syncrolly.com](https://syncrolly.com)
+> **A real-time code-sharing platform using Socket.IO, MongoDB, and Yjs**
+
+- **Real-Time Collaboration**: Users can simultaneously edit code with live updates.
+- **Persistent Data**: Leveraging MongoDB for long-term storage.
+- **Conflict Resolution**: Utilizing Yjs to manage concurrent edits and merges.
+
+<!-- You can also include a screenshot or GIF if you like -->
+<p align="center">
+  <img src="https://via.placeholder.com/800x400?text=Syncrolly+Project+Screenshot" alt="Syncrolly screenshot" width="70%"/>
+</p>
+
+<hr/>
+
 <!-- GitHub Stats Section -->
 <div align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=anzful&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" />
