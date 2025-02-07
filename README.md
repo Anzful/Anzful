@@ -1,8 +1,3 @@
-<!-- 
-  You can paste this directly into your README.md 
-  and customize it as you wish.
--->
-
 <!-- Banner or Header -->
 <p align="center">
   <img src="https://readme-creative.s3.amazonaws.com/headers/tech-header2.gif" alt="header" width="100%"/>
@@ -29,13 +24,6 @@
   <img src="https://img.shields.io/github/followers/anzful?label=Followers&style=social" alt="GitHub Badge" />
 </p>
 
-<!-- Trophies -->
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=anzful&theme=onestar&row=1&column=6" alt="anzful trophies" />
-  </a>
-</p>
-
 <!-- Contact / Connect -->
 <h3 align="center">Connect with me</h3>
 <p align="center">
@@ -45,7 +33,6 @@
   <a href="https://instagram.com/anzochkh" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram"/>
   </a>
-  <!-- Add more social links or personal website link if you have one -->
 </p>
 
 <!-- Email -->
@@ -58,7 +45,7 @@
 <!-- Languages & Tools Section -->
 <h3 align="center">Languages & Tools</h3>
 <p align="center">
-  <!-- Example badges; you can add or remove as needed -->
+  <!-- Example badges; add or remove as needed -->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="javascript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" alt="typescript" />
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" alt="react" />
@@ -90,9 +77,27 @@
 - **Persistent Data**: Leveraging MongoDB for long-term storage.
 - **Conflict Resolution**: Utilizing Yjs to manage concurrent edits and merges.
 
-<!-- You can also include a screenshot or GIF if you like -->
 <p align="center">
   <img src="https://via.placeholder.com/800x400?text=Syncrolly+Project+Screenshot" alt="Syncrolly screenshot" width="70%"/>
+</p>
+
+### [Minesweeper](https://github.com/Anzful/minesweeper)
+> **A simple Minesweeper game using React, Node.js, and phpMyAdmin**
+
+- **Interactive UI**: Built with React for a dynamic and fun gameplay experience.
+- **Server Integration**: Utilizes Node.js for backend logic and real-time functionalities.
+- **Database Management**: phpMyAdmin (with MySQL) for storing game data or user scores.
+
+<p align="center">
+  <img src="https://via.placeholder.com/800x400?text=Minesweeper+Project+Screenshot" alt="Minesweeper screenshot" width="70%"/>
+</p>
+
+<!-- Trophies -->
+## 🏆 Trophies
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=anzful&theme=onestar&row=1&column=6" alt="anzful trophies" />
+  </a>
 </p>
 
 <hr/>
