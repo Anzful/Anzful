@@ -77,20 +77,19 @@
 - **Persistent Data**: Leveraging MongoDB for long-term storage.
 - **Conflict Resolution**: Utilizing Yjs to manage concurrent edits and merges.
 
-<p align="center">
-  <img src="https://via.placeholder.com/800x400?text=Syncrolly+Project+Screenshot" alt="Syncrolly screenshot" width="70%"/>
-</p>
+### [DevTrain](https://devtrain.vercel.app/)
+> **A coding practice platform inspired by LeetCode, built with Next.js, TailwindCSS, and MongoDB**
 
-### [Minesweeper](https://github.com/Anzful/minesweeper)
-> **A simple Minesweeper game using React, Node.js, and phpMyAdmin**
+- **Problem Solving**: Users can solve a variety of coding problems with different difficulty levels.
+- **Interactive UI**: Utilizes Next.js for server-side rendering and a responsive design with TailwindCSS.
+- **Data Persistence**: MongoDB is used to store problems, solutions, and user progress.
+
+### [Minesweeper](https://minesweepperr.vercel.app/)
+> **A simple Minesweeper game using React, Node.js, and MongoDB**
 
 - **Interactive UI**: Built with React for a dynamic and fun gameplay experience.
 - **Server Integration**: Utilizes Node.js for backend logic and real-time functionalities.
-- **Database Management**: phpMyAdmin (with MySQL) for storing game data or user scores.
-
-<p align="center">
-  <img src="https://via.placeholder.com/800x400?text=Minesweeper+Project+Screenshot" alt="Minesweeper screenshot" width="70%"/>
-</p>
+- **Database Management**: MongoDB for storing game data or user scores.
 
 <!-- Trophies -->
 ## 🏆 Trophies
